@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Happy Monkey', cursive;
+    color: #34180D;
+}
+
+.container{
+    margin: 20px auto;
+    width: 50vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+}
+
+.first, .second, .third{
+    margin: 40px 0;
+}
+
+.circle{
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #34180D;
+}
+
+.age, .date{
+    width: 12vw;
+    background: #34180D;
+    color: #fff;
+    margin: auto;
+    padding: 10px 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.date{
+    width: 10vw;
+}
+
+.first p{
+    margin: 10px 0;
+}
+
+img{
+    width: 28vw;
+    margin-top: 50px;
+}
+
+
+
+
